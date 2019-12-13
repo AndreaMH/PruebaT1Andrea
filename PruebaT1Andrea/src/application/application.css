@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+*{
+    -fx-font-family: 'Poiret One';
+}
+
+.login {
+	-fx-font-size: 35px;
+}
+
+.header {
+	-fx-background-image: url("../view/assets/sky.jpeg");
+	-fx-background-size: cover;
+	-fx-background-repeat: no-repeat;
+	
+}
+
+.header2 {
+	-fx-background-color: #FFA200;
+}
+
+.header22 {
+	-fx-background-image: url("../view/assets/sistemaSolar.jpg");
+	-fx-background-size: cover;
+	-fx-background-repeat: no-repeat;
+}
+
+.footer {
+	-fx-background-color: #FFA200;
+}
+
+.btnLogin {
+	-fx-background-color: #FFA200;
+	-fx-text-fill: #fff;
+}
+
+.btnLogin:hover {
+	-fx-background-color: #000;
+}
